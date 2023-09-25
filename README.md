@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sticki0806
-- 👀 I’m interested in coding JS and C#
-- 🌱 I’m currently learning JS and C#
+- 👀 I’m interested in coding JS
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on many different projects, when I´m able to write codes
 - 📫 How to reach me? I think you don´t have to.
 
